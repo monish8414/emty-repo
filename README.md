@@ -1,22 +1,2 @@
-# vmodel
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-sffdf
-make new change in make new branch
-ineed to deleted edit
+# ddos
+# By Indian Watchdogs @Indian_Hackers_Team

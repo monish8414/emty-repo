@@ -1,0 +1,266 @@
+UserID: 5721664146 | Time: 2024-07-23 13:07:24.222236 | Command: /bgmi | Target: 20.198.100.217 | Port: 23975 | Time: 180
+UserID: 1327240865 | Time: 2024-07-23 13:56:35.068412 | Command: /bgmi | Target: 20.235.14.83 | Port: 28380 | Time: 180
+Username: @Hello_bro_5
+Target: 20.235.14.83
+Port: 28380
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 14:04:15.435876 | Command: /bgmi | Target: 20.204.188.47 | Port: 10007 | Time: 180
+Username: @Hello_bro_5
+Target: 20.204.188.47
+Port: 10007
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 14:07:24.272070 | Command: /bgmi | Target: 20.204.188.47 | Port: 10007 | Time: 180
+Username: @Hello_bro_5
+Target: 20.204.188.47
+Port: 10007
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 14:10:35.586563 | Command: /bgmi | Target: 20.204.188.47 | Port: 10007 | Time: 180
+Username: @Hello_bro_5
+Target: 20.204.188.47
+Port: 10007
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 14:20:46.527370 | Command: /bgmi | Target: 4.247.20.64 | Port: 20588 | Time: 180
+Username: @Hello_bro_5
+Target: 4.247.20.64
+Port: 20588
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 17:48:13.171475 | Command: /bgmi | Target: 52.140.37.85 | Port: 22613 | Time: 180
+Username: @Hello_bro_5
+Target: 52.140.37.85
+Port: 22613
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 17:56:14.633791 | Command: /bgmi | Target: 20.235.51.182 | Port: 23793 | Time: 180
+Username: @Hello_bro_5
+Target: 20.235.51.182
+Port: 23793
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 18:08:15.162878 | Command: /bgmi | Target: 52.172.5.201 | Port: 15461 | Time: 180
+Username: @Hello_bro_5
+Target: 52.172.5.201
+Port: 15461
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 18:42:34.073798 | Command: /bgmi | Target: 20.219.77.204 | Port: 21879 | Time: 200
+Username: @Hello_bro_5
+Target: 20.219.77.204
+Port: 21879
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-23 19:00:38.794754 | Command: /bgmi | Target: 20.235.20.156 | Port: 16347 | Time: 180
+Username: @Hello_bro_5
+Target: 20.235.20.156
+Port: 16347
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 19:03:42.524265 | Command: /bgmi | Target: 20.235.20.156 | Port: 16347 | Time: 180
+Username: @Hello_bro_5
+Target: 20.235.20.156
+Port: 16347
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 19:18:00.389935 | Command: /bgmi | Target: 52.140.18.38 | Port: 25528 | Time: 180
+Username: @Hello_bro_5
+Target: 52.140.18.38
+Port: 25528
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 19:46:14.719504 | Command: /bgmi | Target: 20.235.95.30 | Port: 21187 | Time: 180
+Username: @Hello_bro_5
+Target: 20.235.95.30
+Port: 21187
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 19:49:27.151450 | Command: /bgmi | Target: 20.235.95.30 | Port: 21187 | Time: 600
+Username: @Hello_bro_5
+Target: 20.235.95.30
+Port: 21187
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 20:05:52.969174 | Command: /bgmi | Target: 20.235.15.136 | Port: 27992 | Time: 600
+Username: @Hello_bro_5
+Target: 20.235.15.136
+Port: 27992
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 20:08:43.933250 | Command: /bgmi | Target: 52.140.1.159 | Port: 15491 | Time: 180
+Username: @Hello_bro_5
+Target: 52.140.1.159
+Port: 15491
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 20:12:02.384946 | Command: /bgmi | Target: 52.140.1.159 | Port: 15491 | Time: 600
+Username: @Hello_bro_5
+Target: 52.140.1.159
+Port: 15491
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 20:13:18.666318 | Command: /bgmi | Target: 52.140.1.159 | Port: 15491 | Time: 600
+Username: @Hello_bro_5
+Target: 52.140.1.159
+Port: 15491
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 20:19:12.994805 | Command: /bgmi | Target: 20.235.14.83 | Port: 28168 | Time: 500
+Username: @Hello_bro_5
+Target: 20.235.14.83
+Port: 28168
+Time: 500
+
+UserID: 1327240865 | Time: 2024-07-23 20:33:36.647052 | Command: /bgmi | Target: 20.235.88.222 | Port: 11784 | Time: 600
+Username: @Hello_bro_5
+Target: 20.235.88.222
+Port: 11784
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 20:59:02.726138 | Command: /bgmi | Target: 52.172.14.175 | Port: 11651 | Time: 600
+Username: @Hello_bro_5
+Target: 52.172.14.175
+Port: 11651
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 21:08:09.133424 | Command: /bgmi | Target: 20.219.76.250 | Port: 22941 | Time: 600
+Username: @Hello_bro_5
+Target: 20.219.76.250
+Port: 22941
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 23:21:28.170361 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 600
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-23 23:31:32.070773 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 180
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 180
+
+UserID: 1327240865 | Time: 2024-07-23 23:41:40.085318 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 60
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 60
+
+UserID: 1327240865 | Time: 2024-07-23 23:42:57.465628 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 60
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 60
+
+UserID: 1327240865 | Time: 2024-07-23 23:44:01.490617 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 60
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 60
+
+UserID: 1327240865 | Time: 2024-07-23 23:45:19.076503 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 60
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 60
+
+UserID: 1327240865 | Time: 2024-07-23 23:45:39.432138 | Command: /bgmi | Target: 20.198.100.217 | Port: 23937 | Time: 55
+Username: @Hello_bro_5
+Target: 20.198.100.217
+Port: 23937
+Time: 55
+
+UserID: 1327240865 | Time: 2024-07-23 23:51:22.525894 | Command: /bgmi | Target: 20.204.16.243 | Port: 26644 | Time: 600
+Username: @Hello_bro_5
+Target: 20.204.16.243
+Port: 26644
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 00:15:27.426514 | Command: /bgmi | Target: 20.235.91.37 | Port: 17058 | Time: 600
+Username: @Hello_bro_5
+Target: 20.235.91.37
+Port: 17058
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 00:33:30.271350 | Command: /bgmi | Target: 20.235.91.37 | Port: 17058 | Time: 200
+Username: @Hello_bro_5
+Target: 20.235.91.37
+Port: 17058
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 00:40:49.838852 | Command: /bgmi | Target: 20.235.91.37 | Port: 17058 | Time: 200
+Username: @Hello_bro_5
+Target: 20.235.91.37
+Port: 17058
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 00:45:11.541379 | Command: /bgmi | Target: 20.235.91.37 | Port: 17058 | Time: 100
+Username: @Hello_bro_5
+Target: 20.235.91.37
+Port: 17058
+Time: 100
+
+UserID: 1327240865 | Time: 2024-07-24 01:44:55.973744 | Command: /bgmi | Target: 20.235.91.37 | Port: 17058 | Time: 100
+Username: @Hello_bro_5
+Target: 20.235.91.37
+Port: 17058
+Time: 100
+
+UserID: 1327240865 | Time: 2024-07-24 01:46:23.441122 | Command: /bgmi | Target: 20.219.79.122 | Port: 21088 | Time: 600
+Username: @Hello_bro_5
+Target: 20.219.79.122
+Port: 21088
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 02:11:10.928754 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 600
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 02:26:25.591217 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 200
+UserID: 1327240865 | Time: 2024-07-24 02:27:03.717946 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 200
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 02:28:28.803241 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 200
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 02:34:01.421820 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 200
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 02:37:13.512954 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 200
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 200
+
+UserID: 1327240865 | Time: 2024-07-24 02:39:04.858323 | Command: /bgmi | Target: 20.198.72.178 | Port: 29838 | Time: 600
+Username: @Hello_bro_5
+Target: 20.198.72.178
+Port: 29838
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 02:41:24.406638 | Command: /bgmi | Target: 52.140.63.169 | Port: 18578 | Time: 600
+Username: @Hello_bro_5
+Target: 52.140.63.169
+Port: 18578
+Time: 600
+
+UserID: 1327240865 | Time: 2024-07-24 02:55:38.846949 | Command: /bgmi | Target: 4.247.171.143 | Port: 18741 | Time: 600
+Username: @Hello_bro_5
+Target: 4.247.171.143
+Port: 18741
+Time: 600
+
